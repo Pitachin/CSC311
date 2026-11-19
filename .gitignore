@@ -8,6 +8,6 @@ __pycache__/
 
 # Obsidian personal configuration
 .obsidian/
-./notes
+notes/
 # UofT lecture materials
 ppts/lec01_ann_rahul.pdf
